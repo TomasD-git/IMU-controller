@@ -25,3 +25,18 @@
 <img width="754" height="565" alt="image" src="https://github.com/user-attachments/assets/2e7db618-b5be-44f8-b13a-470b031cb724" />
 
 </details>  
+
+<details>
+<summary>BOM</summary>
+
+|Name          |Purpose                                       |Quantity  |Total Cost (USD)|Link                                                                                                                           |Distributor|
+|--------------|----------------------------------------------|----------|----------------|-------------------------------------------------------------------------------------------------------------------------------|-----------|
+|PCB + stencil |all components are on this                    |1         |13.97           |https://jlcpcb.com                                                                                                             |jlcpcb     |
+|ALL components|all components that are on pcb                |1         |38.87           |https://lcsc.com                                                                                                               |lcsc       |
+|CR2032        |battery which poweres the entire PCB          |1         |4               |                                                                                                                               |local store|
+|SEGGER J-Link |Flashes the NRF board with firmware           |1         |4.94            |https://www.aliexpress.com/item/1005005802567589.html                                                                          |Aliexpress |
+|EU tarrifs    |3 EU for each category for orders under 150 eu|3         |32.66           |https://commission.europa.eu/news-and-media/news/ensuring-fairness-and-safety-eur3-customs-duty-low-value-parcels-2026-06-29_en|EU         |
+|              |                                              |Total cost|94.44           |                                                                                                                               |           |
+|              |If outside EU                                 |Total cost|61.78           |                                                                                                                               |           |
+
+</details>
