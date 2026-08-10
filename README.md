@@ -3,7 +3,7 @@
 
 ## Features:  
 - **Ultra low power 11.5uA power consumption in sleep**  
-- **Most power consumption(All LEDs on max brightness, cpu and ram fully active, BLE active, IMU running) 20mA**
+- **Most power consumption(LED on max brightness, cpu and ram fully active, BLE active, IMU running) 16.5mA**
 - **Battery lasts 700ish days(11.5µA consumption on a 220mah battery)**
 - **Powerfull BLE 5.3 with antenna**
 - **NRF52810 as MCU**
