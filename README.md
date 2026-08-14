@@ -13,6 +13,24 @@
 - **CR2032 battery**
 - **RGB LEDs**
 
+<details>
+<summary>How to flash</summary>
+  
+1. **Open VS Code**  
+2. **Select connected device in left bottom corner:** 
+<img width="161" height="132" alt="image" src="https://github.com/user-attachments/assets/4a6b26c8-9f6f-4a38-be94-c9cf9f109e19" />
+
+4. **Flash:**  
+<img width="144" height="18" alt="image" src="https://github.com/user-attachments/assets/ed1793c1-9f66-4db3-b07a-b73b643889c2" />    
+
+
+
+( For Debugging select: )  
+<img width="134" height="24" alt="image" src="https://github.com/user-attachments/assets/3d949833-b146-4a7a-8436-6f0ea4b6ce1a" />  
+
+</details>
+
+
 <details>  
 <summary>Pictures</summary>  
   
