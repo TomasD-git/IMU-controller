@@ -15,7 +15,8 @@
 
 <details>
 <summary>How to flash</summary>
-  
+
+0. **Connect device to PC using segger j-link**   
 1. **Open VS Code**  
 2. **Select connected device in left bottom corner:** 
 <img width="161" height="132" alt="image" src="https://github.com/user-attachments/assets/4a6b26c8-9f6f-4a38-be94-c9cf9f109e19" />
@@ -30,6 +31,17 @@
 
 </details>
 
+<details>
+<summary>How to Assemble</summary>
+
+1. **Print all parts and assemble PCB**  
+2. **Flash**  
+3. **Place the Coin Cell battery into the holder**  
+4. **Place the PCB inside the case**  
+5. **Screw the bottom lid into the top one**  
+6. **Verify it works by clicking the button**  
+
+</details>
 
 <details>  
 <summary>Pictures</summary>  
