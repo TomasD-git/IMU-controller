@@ -6,7 +6,7 @@
 ## Features:  
 - **Ultra low power 11.5uA power consumption in sleep mode**  
 - **Most power consumption(LED on max brightness, cpu and ram fully active, BLE active, IMU running) 16.5mA**
-- **Battery lasts 700ish days(11.5µA consumption on a 220mah battery)**
+- **Battery lasts 700ish days(11.1µA consumption on a 220mah battery)**
 - **Powerfull BLE 5.3 with antenna**
 - **NRF52810 as MCU**
 - **BMI270 as IMU**
@@ -38,6 +38,38 @@
 
 ( For Debugging select: )  
 <img width="134" height="24" alt="image" src="https://github.com/user-attachments/assets/3d949833-b146-4a7a-8436-6f0ea4b6ce1a" />  
+
+</details>
+
+<details>
+<summary>Power consumption</summary>
+
+Deep sleep:
+| Component | What is active | Consumption |
+|---|---|---|
+| NRF52810 | System ON, RTC wake, full retention, LFXO | 1.1µA |
+| BMI270 | Accel-only Low Power Mode | 10µA |
+| LED | Off | 0µA |
+| Total | | 11.1µA |
+| Battery life | 220,000µAh ÷ 11.1µA | ~825 days (~2.3 years) |
+ 
+Deep sleep + BLE connected:
+| Component | What is active | Consumption |
+|---|---|---|
+| NRF52810 | BLE Connected on slow mode | 2.8mA |
+| BMI270 | Accel-only Low Power Mode | 10µA |
+| LED | Off | 0µA |
+| Total | | 2.81mA |
+| Battery life | 220,000µAh ÷ 2.81mA | ~78.3 hours (~3.3 days) |
+ 
+Everything active:
+| Component | What is active | Consumption |
+|---|---|---|
+| NRF52810 | CPU active + BLE | 13.8mA |
+| BMI270 | Normal mode | 0.685mA |
+| LED | On | 2.0mA |
+| Total | | 16.485mA |
+| Battery life | 220,000µAh ÷ 16.485mA | ~13.3 hours |
 
 </details>
 
