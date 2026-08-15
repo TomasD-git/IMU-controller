@@ -4,14 +4,24 @@
 <img width="476" height="392" alt="image" src="https://github.com/user-attachments/assets/f24d42b9-22be-4590-b2d1-1ef5e3aa8daf" />
 
 ## Features:  
-- **Ultra low power 11.5uA power consumption in sleep**  
+- **Ultra low power 11.5uA power consumption in sleep mode**  
 - **Most power consumption(LED on max brightness, cpu and ram fully active, BLE active, IMU running) 16.5mA**
 - **Battery lasts 700ish days(11.5µA consumption on a 220mah battery)**
 - **Powerfull BLE 5.3 with antenna**
 - **NRF52810 as MCU**
 - **BMI270 as IMU**
 - **CR2032 battery**
-- **RGB LEDs**
+- **Red LED**
+
+<details>
+<summary>How to does it work</summary>
+
+## The button enables/disables the BLE  
+## The LED indicates if BLE is active (LED flashes once = BLE on, LED flashes twice = BLE off)  
+## All components are in deep sleep until accel detects movement  
+## After few seconds of inactivity goes back to deep sleep  
+
+</details>
 
 <details>
 <summary>How to flash</summary>
