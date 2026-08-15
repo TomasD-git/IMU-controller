@@ -44,32 +44,35 @@
 <details>
 <summary>Power consumption</summary>
 
-Deep sleep:
-| Component | What is active | Consumption |
+## Deep Sleep:
+| Component | What's active | Consumption |
 |---|---|---|
-| NRF52810 | System ON, RTC wake, full retention, LFXO | 1.1µA |
-| BMI270 | Accel-only Low Power Mode | 10µA |
+| NRF52810 | Deep Sleep | 1.1µA |
+| BMI270 | Accel-only Low power mode | 10µA |
 | LED | Off | 0µA |
 | Total | | 11.1µA |
 | Battery life | 220,000µAh ÷ 11.1µA | ~825 days (~2.3 years) |
  
-Deep sleep + BLE connected:
-| Component | What is active | Consumption |
+## Deep Sleep + slow BLE:
+| Component | What's active | Consumption |
 |---|---|---|
-| NRF52810 | BLE Connected on slow mode | 2.8mA |
-| BMI270 | Accel-only Low Power Mode | 10µA |
+| NRF52810 | BLE with  4000ms interval (just to hold connections) | 6.4µA |
+| BMI270 | Accel-only Low power mode | 10µA |
 | LED | Off | 0µA |
-| Total | | 2.81mA |
-| Battery life | 220,000µAh ÷ 2.81mA | ~78.3 hours (~3.3 days) |
+| Total | | 16.4µA |
+| Battery life | 220,000µAh ÷ 16.4µA | ~559 days (~1.53 years) |
  
-Everything active:
-| Component | What is active | Consumption |
+## Fully active:
+| Component | What's active | Consumption |
 |---|---|---|
-| NRF52810 | CPU active + BLE | 13.8mA |
+| NRF52810 | BLE with 7.5ms interval, CPU active | 13.8mA |
 | BMI270 | Normal mode | 0.685mA |
 | LED | On | 2.0mA |
 | Total | | 16.485mA |
 | Battery life | 220,000µAh ÷ 16.485mA | ~13.3 hours |
+
+> [!NOTE]  
+> Can last less depending on quality of the Battery
 
 </details>
 
