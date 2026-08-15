@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary>Power consumption</summary>
+<summary><strong>Power consumption</strong></summary>
 
 ## Deep Sleep:
 | Component | What's active | Consumption |
@@ -71,8 +71,7 @@
 | Total | | 16.485mA |
 | Battery life | 220,000µAh ÷ 16.485mA | ~13.3 hours |
 
-> [!NOTE]  
-> Can last less depending on quality of the Battery
+> **Can last less depending on quality of the Battery**  
 
 </details>
 
