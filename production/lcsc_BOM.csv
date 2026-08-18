@@ -1,0 +1,29 @@
+LCSC BOM.csv,,,,,,,,,,LCSC BOM Quotation,,,,,,,,,,,,,,,
+,,,,,,,,,,BOM Date Created?18/08/26 19:02:04,,,,BOM Export Date: 18/08/26 19:03:08,,,,"The matching result is a real-time query result, availability and prices may fluctuate.  
+Backorder items are estimated prices for your reference, please submit ""Create Quote"" to get the real price.
+All information is provided ""as is"" and is subject to change without notice.  Any use made of the information provided is without recourse to LCSC and at the user's risk.",,,,,,,
+,,,,,,,,,,"EST TOTAL :$28.13
+",,,,Website?https://www.lcsc.com/bom,,,,,,,,,,,
+Uploaded data,,,,,,,,,,LCSC Matching Results,,,,,,,,,,,,,,,
+LCSC#,Mfr.,Mrf#,Description,Package,Value,Customer Part Number,Quantity,Target Price(USD),Target Lead Time(Business Days),Mrf#,Mfr.,Order Qty.,Unit Price(USD),Ext.Price(USD),LCSC#,Package,Min,Mult,SPQ,Availability,Stock Status,Customer Notes,Description,Matched status,Product Link
+C964833,,,MY-2032-12,BAT-SMD_MY-2032-12,,-,5,,,MY-2032-12,MYOUNG,5,0.0940,0.47,C964833,-,5,5,1500,17040,In Stock,,Battery Clip Coin CR2032 Cell SMD,Exact Matches,https://www.lcsc.com/product-detail/C964833.html
+C60474,,,100nF,402,,-,100,,,CC0402KRX7R7BB104,YAGEO,100,0.0057,0.57,C60474,0402,100,100,10000,4786700,In Stock,,100nF ±10% 16V Ceramic Capacitor X7R 0402,Exact Matches,https://www.lcsc.com/product-detail/C60474.html
+C106201,,,12pF,402,,-,100,,,CC0402JRNPO9BN120,YAGEO,100,0.0038,0.38,C106201,0402,100,100,10000,1991400,In Stock,,12pF ±5% 50V Ceramic Capacitor NP0 0402,Exact Matches,https://www.lcsc.com/product-detail/C106201.html
+C15850,,,10uF,805,,-,20,,,CL21A106KAYNNNE,Samsung Electro-Mechanics,20,0.0994,1.99,C15850,0805,20,20,2000,3004120,In Stock,,10uF ±10% 25V Ceramic Capacitor X5R 0805,Exact Matches,https://www.lcsc.com/product-detail/C15850.html
+C29936,,,0.8pF,402,,-,50,,,CL10B105KA8NNNC,Samsung Electro-Mechanics,50,0.0226,1.13,C29936,0603,50,50,4000,2688800,In Stock,,1uF ±10% 25V Ceramic Capacitor X7R 0603,Exact Matches,https://www.lcsc.com/product-detail/C29936.html
+C88902,,,4.7uF,603,,-,20,,,GJM1555C1HR80WB01D,muRata,20,0.0404,0.81,C88902,0402,20,20,10000,187660,In Stock,,0.8pF 50V Ceramic Capacitor C0G 0402,Exact Matches,https://www.lcsc.com/product-detail/C88902.html
+C19666,,,1.2pF,402,,-,10,,,CL10A475KO8NNNC,Samsung Electro-Mechanics,10,0.0336,0.34,C19666,0603,10,10,4000,2943250,In Stock,,4.7uF ±10% 16V Ceramic Capacitor X5R 0603,Exact Matches,https://www.lcsc.com/product-detail/C19666.html
+C1551,,,100pF,402,,-,100,,,0402CG1R2C500NT,FH,100,0.0067,0.67,C1551,0402,100,100,10000,262900,In Stock,,1.2pF 50V Ceramic Capacitor C0G 0402,Exact Matches,https://www.lcsc.com/product-detail/C1551.html
+C26409,,,1uF,603,,-,100,,,CL05C101JB5NNNC,Samsung Electro-Mechanics,100,0.0075,0.75,C26409,0402,100,100,10000,1025100,In Stock,,100pF ±5% 50V Ceramic Capacitor C0G 0402,Exact Matches,https://www.lcsc.com/product-detail/C26409.html
+,,,Conn_01x05,PinSocket_1x05_P2.00mm_Vertical,,-,1,,,-,-,-,-,-,-,-,-,-,-,-,-,,-,No Matches Found,
+C98062,,,3.9nH,402,,-,20,,,LQW15AN3N9B00D,muRata,20,0.0391,0.78,C98062,0402,20,20,10000,5760,In Stock,,750mA 3.9nH 70m? Unshielded Inductor 0402 Fixed Inductors RoHS,Exact Matches,https://www.lcsc.com/product-detail/C98062.html
+C2916136,,,AN3216-245,ANT-SMD_L3.2-W1.6-A,,-,5,,,AN3216-245,Rainsun,5,0.1365,0.68,C2916136,1206,5,5,3000,13935,In Stock,,nan,Exact Matches,https://www.lcsc.com/product-detail/C2916136.html
+C91239,,,2.7nH,402,,-,20,,,LQW15AN2N7B00D,muRata,20,0.0644,1.29,C91239,0402,20,20,10000,60920,In Stock,,850mA 2.7nH 50m? Unshielded Inductor 0402 Fixed Inductors RoHS,Exact Matches,https://www.lcsc.com/product-detail/C91239.html
+C86064,,,3.3nH,402,,-,50,,,LQG15HS3N3S02D,muRata,50,0.0195,0.98,C86064,0402,50,50,10000,80100,In Stock,,800mA 3.3nH 170m? Multilayer inductor 0402 Fixed Inductors RoHS,Exact Matches,https://www.lcsc.com/product-detail/C86064.html
+C137695,,,620,603,,-,100,,,RC0603FR-07620RL,YAGEO,100,0.0065,0.65,C137695,0603,100,100,5000,123600,In Stock,,620? 100mW 75V Thick Film Resistor ±100ppm/? ±1% 0603 Chip Resistor - Surface Mount RoHS,Exact Matches,https://www.lcsc.com/product-detail/C137695.html
+C1558383,,,NRF52810-QFAA-R,UQFN-48_L6.0-W6.0-P0.40-BL-EP4.6,,-,2,,,NRF52810-QFAA-T,NORDIC,2,3.1247,6.25,C1558383,QFN-48-EP(6x6),1,1,490,243,In Stock,,IC RF TXRX 2400MHz~2483.5MHz QFN-48-EP(6x6),Exact Matches,https://www.lcsc.com/product-detail/C1558383.html
+C2848222,,,FC31M2-32.768-N09LLDT,CRYSTAL-SMD_L3.2-W1.5,,-,5,,,FC31M2-32.768-N09LLDT,HCI,5,0.2132,1.07,C2848222,SMD3215-2P,5,5,3000,6345,In Stock,,Crystal 32.768kHz ±20ppm 9pF 50k? SMD3215-2P,Exact Matches,https://www.lcsc.com/product-detail/C2848222.html
+C2836813,,,BMI270,LGA-14_L3.0-W2.5-P0.50-BR,,-,2,,,BMI270,Bosch,2,3.4500,6.90,C2836813,LGA-14(2.5x3),1,1,5000,8040,In Stock,,LGA-14(2.5x3) IMUs (Inertial Measurement Units) RoHS,Exact Matches,https://www.lcsc.com/product-detail/C2836813.html
+C7466002,,,LS L29K-G1J2-1-Z,LED-SMD_L1.3-W0.8-LS1.7-FD,,-,1,,,LS L29K-G1J2-1-Z,OSRAM,5,0.2943,1.47,C7466002,0603,5,5,5000,15275,In Stock,,Red 643nm LED Indication - Discrete 1.8V 0603,Exact Matches,https://www.lcsc.com/product-detail/C7466002.html
+C6630024,,,PTS526SMG15SMTR21 LFS,SW-SMD_4P-L4.8-W4.8-P3.70-LS6.4-1,,-,1,,,PTS526SMG15SMTR21 LFS,C&K,5,0.1176,0.59,C6630024,-,5,5,4000,3075,In Stock,,Tactile Switches RoHS,Exact Matches,https://www.lcsc.com/product-detail/C6630024.html
+C426985,,,S3232000081040,CRYSTAL-SMD_4P-L3.2-W2.5-BL,,-,1,,,S3232000081040,JGHC,5,0.0715,0.36,C426985,SMD3225-4P,5,5,3000,14095,In Stock,,Crystal 32MHz ±10ppm 8pF 40? SMD3225-4P,Exact Matches,https://www.lcsc.com/product-detail/C426985.html
